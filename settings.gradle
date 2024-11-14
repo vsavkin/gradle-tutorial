@@ -10,3 +10,5 @@ rootProject.name = 'gradle-tutorial'
 
 include 'library'
 include 'application'
+include 'application2'
+include 'application3'
