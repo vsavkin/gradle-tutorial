@@ -5,7 +5,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
 import static java.lang.Thread.sleep;
 
-public class DemoApplicationTest {
+public class DemoApplication2Test {
 
     @Test
     public void test1() throws InterruptedException {
